@@ -1,0 +1,18 @@
+
+.dropzone {
+    padding: 1rem;
+    text-align: center;
+    margin: 0 3rem;
+    cursor: pointer;
+    border: 2px dashed #7468bd;
+    background: #f0f6ff;
+    transform: scale(1,1,1,1);
+    transition: all .3s ease;
+}
+
+.dropzone:hover {
+    margin: 0;
+    height: 30%;
+    background: hsl(216, 63%, 91%);
+    transform: scale(1,0.9);
+}

@@ -1,0 +1,1 @@
+export const GET_FLICKR_PHOTOS = 'GET_FLICKR_PHOTOS';
